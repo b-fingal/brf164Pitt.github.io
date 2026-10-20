@@ -22,7 +22,7 @@ window.SITE = {
   name: "Brennan Fingal",
 
   // Sits on the measurement line above your name.
-  tagline: "M.S. ECE student, University of Pittsburgh",
+  tagline: "ECE student, University of Pittsburgh",
 
   // One or two sentences under your name.
   intro: "I build embedded systems end to end: custom PCBs, firmware in C, and Python tools that automate lab test equipment.",
