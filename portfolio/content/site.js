@@ -19,7 +19,7 @@
 
 window.SITE = {
   // ---- About you -----------------------------------------------------------
-  name: "Yun Dong",
+  name: "Hello World",
 
   // Sits on the measurement line above your name.
   tagline: "M.S. ECE student, University of Pittsburgh",
@@ -28,7 +28,7 @@ window.SITE = {
   intro: "I build embedded systems end to end: custom PCBs, firmware in C, and Python tools that automate lab test equipment.",
 
   // A short status next to a green light. Use "" to hide it.
-  status: "Open to summer 2027 internships",
+  status: "Open to every summer 2027 internships",
 
   // Buttons under your intro. A url can be a section (#projects),
   // a file in this folder (assets/resume.pdf), or any website.
