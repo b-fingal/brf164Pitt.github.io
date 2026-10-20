@@ -19,7 +19,7 @@
 
 window.SITE = {
   // ---- About you -----------------------------------------------------------
-  name: "Hello World",
+  name: "Brennan Fingal",
 
   // Sits on the measurement line above your name.
   tagline: "M.S. ECE student, University of Pittsburgh",
